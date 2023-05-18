@@ -1,0 +1,5 @@
+- 👋 Olá, me chamo Gabriel!
+- 👀 Busco atualmente meu primeiro emprego na área como desenvolvedor júnior em front/back-end.
+- 🌱 Atualmente estudando e desenvolvimento meus conhecimentos em linguagens front-end, tais como: HTML, CSS e JS.
+- 💞️ Espero sempre conseguir colaborar para a resolução de grandes problemas de software, agregando com o crescimento da programação como ferramenta e trabalho.
+- 📫 E-mails: gabdionisio@outlook.com/ https://www.linkedin.com/in/gabriel-dionisio-26141021a/
